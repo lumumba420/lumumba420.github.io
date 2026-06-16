@@ -9,7 +9,7 @@ A modern professional website built using HTML, CSS, and JavaScript.
 - Mobile friendly
 
 ## Live Demo
-https://lumumba420.github.io/repository-name/
+https://lumumba420.github.io/
 
 ## Author
 Douglas Lumumba
